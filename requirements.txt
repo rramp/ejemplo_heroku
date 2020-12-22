@@ -32,8 +32,6 @@ meson==0.52.1
 multidict==4.7.6
 numpy==1.17.2
 opcua==0.98.7
-opencv-contrib-python==4.4.0.40
-opencv-python==4.3.0.36
 openshot-qt==2.5.1
 Pillow==7.2.0
 pycparser==2.19
