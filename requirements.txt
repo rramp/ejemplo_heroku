@@ -25,7 +25,6 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 kiwisolver==1.1.0
 libsoundtouch==0.8.0
-libwebp==0.0
 lxml==4.2.5
 MarkupSafe==1.1.1
 matplotlib==3.1.1
