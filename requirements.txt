@@ -32,7 +32,6 @@ meson==0.52.1
 multidict==4.7.6
 numpy==1.17.2
 opcua==0.98.7
-openshot-qt==2.5.1
 Pillow==7.2.0
 pycparser==2.19
 pymodbus==2.2.0
