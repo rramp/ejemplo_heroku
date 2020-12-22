@@ -36,9 +36,6 @@ Pillow==7.2.0
 pycparser==2.19
 pymodbus==2.2.0
 pyparsing==2.4.2
-PyQt5==5.13.2
-PyQt5-sip==4.19.20
-pyserial==3.4
 python-dateutil==2.8.0
 python-gflags==3.1.0
 pytz==2019.2
@@ -57,5 +54,4 @@ webencodings==0.5.1
 websocket-client==0.56.0
 Werkzeug==1.0.1
 yarl==1.5.1
-youtube-dl==2020.1.1
 zeroconf==0.23.0
